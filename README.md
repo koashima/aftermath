@@ -42,6 +42,7 @@ _Materialize_
 
 ## Getting Started
 
+[Click on Link to open AFTERMATH app ](https://aftermath-app.herokuapp.com)
 
 
 ## Next Steps 
